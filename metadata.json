@@ -1,0 +1,6 @@
+{
+  "name": "PulseTrack - Fitness & Daily Goal Tracker",
+  "description": "Comprehensive personal fitness progress tracker with daily goal targets, activity logging, workout history, body measurements, streak tracking, and interactive analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
